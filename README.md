@@ -55,7 +55,7 @@ Conhecimento solido em React, Javascript, Html e Css que utilizo em códigos lim
 * StyledComponents
 
 
-
+<!-- 
 ***
 
-hey, this resume was made with markdown and you can check it better on <a href="https://github.com/sejidjorge/Curriculo"> Github </a>
+hey, this resume was made with markdown and you can check it better on <a href="https://github.com/sejidjorge/Curriculo"> Github </a> -->
