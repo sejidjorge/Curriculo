@@ -4,7 +4,7 @@
 **ReactJS | Javascript | Html | Css | MaterialUI | Redux**
 
 #### Informações Contato
-**E-mail**: <a href="mailto:sejidjorgen@gmail.com">sejidjorgen@gmail.com</a>
+**E-mail**: <a href="mailto:sejidjorge@gmail.com">sejidjorgen@gmail.com</a>
 
 * **WatsApp**: <a href="wa.me/5511966028963">+55 (11)96602-8963</a>
 
@@ -53,3 +53,9 @@ Conhecimento solido em React, Javascript, Html e Css que utilizo em códigos lim
 * Redux  
 * Bootstrap  
 * StyledComponents
+
+
+
+***
+
+hey, this resume was made with markdown and you can check it better on <a href="https://github.com/sejidjorge/Curriculo"> Github </a>
