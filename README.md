@@ -1,7 +1,7 @@
 
 # Jorge Luis Pereira
 ### Desenvolvedor FrontEnd 
-** ReactJS | Javascript | Html | Css | MaterialUI | Redux **
+**ReactJS | Javascript | Html | Css | MaterialUI | Redux**
 
 #### Informações Contato
 **E-mail**: <a href="mailto:sejidjorgen@gmail.com">sejidjorgen@gmail.com</a>
