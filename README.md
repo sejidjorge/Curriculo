@@ -6,13 +6,15 @@
 #### Informações Contato
 **E-mail**: <a href="mailto:sejidjorgen@gmail.com">sejidjorgen@gmail.com</a>
 
-**Telefone**: <a href="wa.me/5511966028963">+55 (11)96602-8963</a>
+* **WatsApp**: <a href="wa.me/5511966028963">+55 (11)96602-8963</a>
 
-**LinkedIn**: <a href="http://www.linkedin.com/in/jldevfrontend/">www.linkedin.com/in/jldevfrontend</a>
+* **Celular**: <a href="tel:+5511966028963">+55 (11)96602-8963</a>
 
-**GitHub**: <a href="https://github.com/sejidjorge">github.com/sejidjorge</a>
+* **LinkedIn**: <a href="http://www.linkedin.com/in/jldevfrontend/">www.linkedin.com/in/jldevfrontend</a>
 
-**Portfolio**: <a href="https://jldev.me">jldev.me</a>
+* **GitHub**: <a href="https://github.com/sejidjorge">github.com/sejidjorge</a>
+
+* **Portfolio**: <a href="https://jldev.me">jldev.me</a>
 
 #### Resumo
 
