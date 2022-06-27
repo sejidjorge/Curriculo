@@ -4,7 +4,7 @@
 **ReactJS | Javascript | Html | Css | MaterialUI | Redux**
 
 #### Informações Contato
-**E-mail**: <a href="mailto:sejidjorge@gmail.com">sejidjorgen@gmail.com</a>
+**E-mail**: <a href="mailto:sejidjorge@gmail.com">sejidjorge@gmail.com</a>
 
 * **WatsApp**: <a href="wa.me/5511966028963">+55 (11)96602-8963</a>
 
