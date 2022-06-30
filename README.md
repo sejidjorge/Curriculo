@@ -54,10 +54,13 @@ Solid knowledge in React, Javascript, Html and Css that I use in clean and well-
 * Bootstrap  
 * StyledComponents
 
-<!-- hey, this resume was made with markdown and you can check it better on <a href="https://github.com/sejidjorge/Curriculo"> Github </a> -->
-
-
 ***
+***
+***
+
+<!-- hey, this resume was made with markdown and you can check it better on <a href="https://github.com/sejidjorge/Curriculo"> Github </a>  -->
+
+
 
 # Jorge Luis Pereira
 ### Desenvolvedor FrontEnd 
@@ -117,5 +120,4 @@ Conhecimento solido em React, Javascript, Html e Css que utilizo em códigos lim
 
 
 ***
-<!-- 
-hey, this resume was made with markdown and you can check it better on <a href="https://github.com/sejidjorge/Curriculo"> Github </a> -->
+<!-- hey, this resume was made with markdown and you can check it better on <a href="https://github.com/sejidjorge/Curriculo"> Github </a>  -->
