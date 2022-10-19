@@ -1,7 +1,7 @@
 
 # Jorge Luis Pereira
 ### Front End Developer
-**ReactJS | Javascript | Html | Css | MaterialUI | Redux**
+**ReactJs | NextJs | NodeJs | Express | Typescript | Styled-Components**
 
 #### Contact
 * **E-mail**: <a href="mailto:sejidjorge@gmail.com">sejidjorge@gmail.com</a>
@@ -18,18 +18,16 @@
 
 #### Summary
 
-Solid knowledge in React, Javascript, Html and Css that I use in clean and well-structured codes that are easy to maintain and understand.  
+Solid knowledge in ReactJS, NextJS, NodeJS, Express, Typescript, Styled-Components, Html and Css that I use in clean and well-structured codes that are easy to maintain and understand.
 
 #### Professional experience
 
-* **Front End Developer**:
+* **Frontend Developer**:
 
-    Dez/2021 - currently
+    Dec/2021 - Currently
+    * VentureLabs Group
 
-    * <a href="https://helpie.com.br/">Helpie</a>
-
-    Creation and maintenance of visual layout, interface/interaction and user experience on company websites.  
-
+Creation and maintenance of visual layout, user interface/interaction and user experience in the applications of the companies in the group, with a main focus on <a href="https://helpie.com.br">Helpie</a> and more recently I was responsible for all the structuring and development of the <a href="http://bluepay.app">BluePay</a> web application and the SDK to integrate the application with the backend.
 
 #### Academic experience
 
@@ -42,17 +40,22 @@ Solid knowledge in React, Javascript, Html and Css that I use in clean and well-
 #### Skills
 
 * ReactJS  
+* NextJs  
+* NodeJs  
+* Express  
 * JavaScript  
+* TypeScript  
+* Styled-Components
 * Html  
 * Css  
 * Saas  
-* NextJs  
-* NodeJs  
 * Tailwind  
 * MaterialUI  
+* ChakraUI  
 * Redux  
 * Bootstrap  
-* StyledComponents
+* Husky  
+* Jest    
 
 ***
 ***
@@ -64,7 +67,7 @@ Solid knowledge in React, Javascript, Html and Css that I use in clean and well-
 
 # Jorge Luis Pereira
 ### Desenvolvedor FrontEnd 
-**ReactJS | Javascript | Html | Css | MaterialUI | Redux**
+**ReactJs | NextJs | NodeJs | Express | Typescript | Styled-Components**
 
 #### Informações Contato
 * **E-mail**: <a href="mailto:sejidjorge@gmail.com">sejidjorge@gmail.com</a>
@@ -81,17 +84,16 @@ Solid knowledge in React, Javascript, Html and Css that I use in clean and well-
 
 #### Resumo
 
-Conhecimento solido em React, Javascript, Html e Css que utilizo em códigos limpos e bem estruturados de fácil manutenção e entendimento.  
+Conhecimento solido em ReactJS, NextJS, NodeJS, Express, Typescript, Styled-Components, Html e Css que utilizo em códigos limpos e bem estruturados de fácil manutenção e entendimento.  
 
 #### Experiência Profissional
 
 * **Desenvolvedor Frontend**:
 
     Dez/2021 - Atualmente
+    * VentureLabs Group
 
-    * <a href="https://helpie.com.br/">Helpie</a>
-
-    Criação e manutenção layout visual, interface/interação do usuário e experiência do usuário nos sites da empresa.  
+Criação e manutenção layout visual, interface/interação do usuário e experiência do usuário nas aplicações das empresas do grupo, com foco principal na <a href="https://helpie.com.br">Helpie</a> e mais recentemente fui responsável por toda a estruturação e desenvolvimento do aplicativo web do <a href="bluepay.app">BluePay</a> e do SDK para integrar a aplicação com o backend.  
 
 
 #### Experiência Acadêmica
@@ -105,17 +107,22 @@ Conhecimento solido em React, Javascript, Html e Css que utilizo em códigos lim
 #### Habilidades
 
 * ReactJS  
+* NextJs  
+* NodeJs  
+* Express  
 * JavaScript  
+* TypeScript  
+* Styled-Components
 * Html  
 * Css  
 * Saas  
-* NextJs  
-* NodeJs  
 * Tailwind  
 * MaterialUI  
+* ChakraUI  
 * Redux  
 * Bootstrap  
-* StyledComponents
+* Husky  
+* Jest    
 
 
 
