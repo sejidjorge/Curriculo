@@ -27,7 +27,7 @@ Solid knowledge in ReactJS, NextJS, NodeJS, Express, Typescript, Styled-Componen
     Dec/2021 - Currently
     * VentureLabs Group
 
-Creation and maintenance of visual layout, user interface/interaction and user experience in the applications of the companies in the group, with a main focus on <a href="https://helpie.com.br">Helpie</a> and more recently I was responsible for all the structuring and development of the <a href="http://bluepay.app">BluePay</a> web application and the SDK to integrate the application with the backend.
+Creation and maintenance of visual layout, user interface/interaction and user experience in the applications of the companies in the group, with a main focus on <a href="https://helpie.com.br">Helpie</a> and more recently I was responsible for all the structuring and development of the <a href="https://bluepay.app">BluePay</a> web application and the SDK to integrate the application with the backend.
 
 #### Academic experience
 
@@ -93,7 +93,7 @@ Conhecimento solido em ReactJS, NextJS, NodeJS, Express, Typescript, Styled-Comp
     Dez/2021 - Atualmente
     * VentureLabs Group
 
-Criação e manutenção layout visual, interface/interação do usuário e experiência do usuário nas aplicações das empresas do grupo, com foco principal na <a href="https://helpie.com.br">Helpie</a> e mais recentemente fui responsável por toda a estruturação e desenvolvimento do aplicativo web do <a href="bluepay.app">BluePay</a> e do SDK para integrar a aplicação com o backend.  
+Criação e manutenção layout visual, interface/interação do usuário e experiência do usuário nas aplicações das empresas do grupo, com foco principal na <a href="https://helpie.com.br">Helpie</a> e mais recentemente fui responsável por toda a estruturação e desenvolvimento do aplicativo web do <a href="https://bluepay.app">BluePay</a> e do SDK para integrar a aplicação com o backend.  
 
 
 #### Experiência Acadêmica
